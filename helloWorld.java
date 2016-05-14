@@ -6,5 +6,7 @@ class HelloWorld {
   * Main
   *****************************************************/
 public static void main(String[]args) {
-    system.out.println("Hello Github World");
+    System.out.println("Hello Github");
+    System.out.println("Testing...");
+
 }
